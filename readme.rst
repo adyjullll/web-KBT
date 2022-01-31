@@ -9,6 +9,9 @@ Cara Menggunakan Website Kami
 *******************
 -  Unduh atau clone git kami
 - Simpan dalam folder htdoc di Xampp
+- Buka <https://localhost/phpmyadmin> untuk mem-create database
+- Buat database pada menu new
+- Buat table barang yang berisi field id,nama,telepon,keterangan sesuai di dalam source code
 - Jalankan server
 - Masukan URL <https://localhost/toko-online/dashboard/>
 
